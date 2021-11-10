@@ -1,4 +1,5 @@
-#NOTES - Threads & Networking
+NOTES - Threads & Networking
+
 Executor Service
 
 It does away with the need of using one's own thread manager which can be plagued with bugs, hence it's useful to run
